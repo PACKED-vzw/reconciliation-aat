@@ -1,0 +1,45 @@
+stdClass Object
+(
+    [q0] => stdClass Object
+        (
+            [query] => opgezette dieren
+            [type] => /objectname
+            [type_strict] => should
+        )
+
+    [q1] => stdClass Object
+        (
+            [query] => blad (plantaardig materiaal)
+            [type] => /objectname
+            [type_strict] => should
+        )
+
+    [q2] => stdClass Object
+        (
+            [query] => textielmaterialen
+            [type] => /objectname
+            [type_strict] => should
+        )
+
+    [q3] => stdClass Object
+        (
+            [query] => balsahout
+            [type] => /objectname
+            [type_strict] => should
+        )
+
+    [q4] => stdClass Object
+        (
+            [query] => koper
+            [type] => /objectname
+            [type_strict] => should
+        )
+
+    [q5] => stdClass Object
+        (
+            [query] => mest
+            [type] => /objectname
+            [type_strict] => should
+        )
+
+)

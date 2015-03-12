@@ -1,0 +1,512 @@
+Array
+(
+    [callback] => jsonp1396871633624
+)
+Array
+(
+    [test] => "jawadde"
+    [callback] => jsonp1396871633625
+)
+Array
+(
+    [test] => "jawadde"
+    [callback] => jsonp1396871633626
+)
+Array
+(
+    [test] => "ggg"
+)
+Array
+(
+    [test] => "ggg"
+)
+Array
+(
+    [callback] => jsonp1396873713926
+)
+Array
+(
+    [callback] => jsonp1396873713927
+)
+Array
+(
+)
+Array
+(
+    [callback] => jsonp1396873713929
+)
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+Array
+(
+    [queries] => {"q0":{"query":"gravure","type":"/objectname","type_strict":"should"},"q1":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"prent","type":"/objectname","type_strict":"should"},"q5":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q6":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q7":{"query":"gouache","type":"/objectname","type_strict":"should"},"q8":{"query":"pastel","type":"/objectname","type_strict":"should"},"q9":{"query":"afgietsel","type":"/objectname","type_strict":"should"}}
+)
+Array
+(
+    [queries] => {"q0":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q1":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q2":{"query":"koker","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+Array
+(
+    [queries] => {"q0":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q1":{"query":"paard","type":"/objectname","type_strict":"should"},"q2":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q3":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q4":{"query":"ets","type":"/objectname","type_strict":"should"},"q5":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q6":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q7":{"query":"foto","type":"/objectname","type_strict":"should"},"q8":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q9":{"query":"mezzotint","type":"/objectname","type_strict":"should"}}
+)
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"collage","type":"/objectname","type_strict":"should"},"q2":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"schildering","type":"/objectname","type_strict":"should"},"q5":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q8":{"query":"boek","type":"/objectname","type_strict":"should"},"q9":{"query":"penschildering","type":"/objectname","type_strict":"should"}}
+)
+Array
+(
+    [queries] => {"q0":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q1":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"},"q4":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+15_37:17
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+15_40:18
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+15_40:18
+Array
+(
+    [queries] => {"q0":{"query":"gravure","type":"/objectname","type_strict":"should"},"q1":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"prent","type":"/objectname","type_strict":"should"},"q5":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q6":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q7":{"query":"gouache","type":"/objectname","type_strict":"should"},"q8":{"query":"pastel","type":"/objectname","type_strict":"should"},"q9":{"query":"afgietsel","type":"/objectname","type_strict":"should"}}
+)
+15_40:18
+Array
+(
+    [queries] => {"q0":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q1":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q2":{"query":"koker","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+15_40:18
+Array
+(
+    [queries] => {"q0":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q1":{"query":"paard","type":"/objectname","type_strict":"should"},"q2":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q3":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q4":{"query":"ets","type":"/objectname","type_strict":"should"},"q5":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q6":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q7":{"query":"foto","type":"/objectname","type_strict":"should"},"q8":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q9":{"query":"mezzotint","type":"/objectname","type_strict":"should"}}
+)
+15_40:18
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"collage","type":"/objectname","type_strict":"should"},"q2":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"schildering","type":"/objectname","type_strict":"should"},"q5":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q8":{"query":"boek","type":"/objectname","type_strict":"should"},"q9":{"query":"penschildering","type":"/objectname","type_strict":"should"}}
+)
+15_40:18
+Array
+(
+    [queries] => {"q0":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q1":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"},"q4":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+15_41:46
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+15_41:49
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+15_41:49
+Array
+(
+    [queries] => {"q0":{"query":"gravure","type":"/objectname","type_strict":"should"},"q1":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"prent","type":"/objectname","type_strict":"should"},"q5":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q6":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q7":{"query":"gouache","type":"/objectname","type_strict":"should"},"q8":{"query":"pastel","type":"/objectname","type_strict":"should"},"q9":{"query":"afgietsel","type":"/objectname","type_strict":"should"}}
+)
+15_41:49
+Array
+(
+    [queries] => {"q0":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q1":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q2":{"query":"koker","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+15_41:49
+Array
+(
+    [queries] => {"q0":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q1":{"query":"paard","type":"/objectname","type_strict":"should"},"q2":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q3":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q4":{"query":"ets","type":"/objectname","type_strict":"should"},"q5":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q6":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q7":{"query":"foto","type":"/objectname","type_strict":"should"},"q8":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q9":{"query":"mezzotint","type":"/objectname","type_strict":"should"}}
+)
+15_41:50
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"collage","type":"/objectname","type_strict":"should"},"q2":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"schildering","type":"/objectname","type_strict":"should"},"q5":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q8":{"query":"boek","type":"/objectname","type_strict":"should"},"q9":{"query":"penschildering","type":"/objectname","type_strict":"should"}}
+)
+15_41:50
+Array
+(
+    [queries] => {"q0":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q1":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"},"q4":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+15_45:44
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+15_45:47
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+15_45:47
+Array
+(
+    [queries] => {"q0":{"query":"gravure","type":"/objectname","type_strict":"should"},"q1":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"prent","type":"/objectname","type_strict":"should"},"q5":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q6":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q7":{"query":"gouache","type":"/objectname","type_strict":"should"},"q8":{"query":"pastel","type":"/objectname","type_strict":"should"},"q9":{"query":"afgietsel","type":"/objectname","type_strict":"should"}}
+)
+15_45:47
+Array
+(
+    [queries] => {"q0":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q1":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q2":{"query":"koker","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+15_45:47
+Array
+(
+    [queries] => {"q0":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q1":{"query":"paard","type":"/objectname","type_strict":"should"},"q2":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q3":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q4":{"query":"ets","type":"/objectname","type_strict":"should"},"q5":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q6":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q7":{"query":"foto","type":"/objectname","type_strict":"should"},"q8":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q9":{"query":"mezzotint","type":"/objectname","type_strict":"should"}}
+)
+15_45:47
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"collage","type":"/objectname","type_strict":"should"},"q2":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"schildering","type":"/objectname","type_strict":"should"},"q5":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q8":{"query":"boek","type":"/objectname","type_strict":"should"},"q9":{"query":"penschildering","type":"/objectname","type_strict":"should"}}
+)
+15_45:47
+Array
+(
+    [queries] => {"q0":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q1":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"},"q4":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+15_45:54
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+15_45:55
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+15_45:55
+Array
+(
+    [queries] => {"q0":{"query":"gravure","type":"/objectname","type_strict":"should"},"q1":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"prent","type":"/objectname","type_strict":"should"},"q5":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q6":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q7":{"query":"gouache","type":"/objectname","type_strict":"should"},"q8":{"query":"pastel","type":"/objectname","type_strict":"should"},"q9":{"query":"afgietsel","type":"/objectname","type_strict":"should"}}
+)
+15_45:56
+Array
+(
+    [queries] => {"q0":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q1":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q2":{"query":"koker","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+15_45:56
+Array
+(
+    [queries] => {"q0":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q1":{"query":"paard","type":"/objectname","type_strict":"should"},"q2":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q3":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q4":{"query":"ets","type":"/objectname","type_strict":"should"},"q5":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q6":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q7":{"query":"foto","type":"/objectname","type_strict":"should"},"q8":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q9":{"query":"mezzotint","type":"/objectname","type_strict":"should"}}
+)
+15_45:56
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"collage","type":"/objectname","type_strict":"should"},"q2":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"schildering","type":"/objectname","type_strict":"should"},"q5":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q8":{"query":"boek","type":"/objectname","type_strict":"should"},"q9":{"query":"penschildering","type":"/objectname","type_strict":"should"}}
+)
+15_45:56
+Array
+(
+    [queries] => {"q0":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q1":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"},"q4":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+16_12:34
+Array
+(
+)
+16_13:19
+Array
+(
+    [callback] => jsonp1396880564745
+)
+16_13:19
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+16_13:39
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+16_13:45
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"gravure","type":"/objectname","type_strict":"should"},"q3":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q5":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q6":{"query":"prent","type":"/objectname","type_strict":"should"},"q7":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q8":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q9":{"query":"gouache","type":"/objectname","type_strict":"should"}}
+)
+16_13:51
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q5":{"query":"pastel","type":"/objectname","type_strict":"should"},"q6":{"query":"afgietsel","type":"/objectname","type_strict":"should"},"q7":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q8":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q9":{"query":"koker","type":"/objectname","type_strict":"should"}}
+)
+16_13:57
+Array
+(
+    [queries] => {"q0":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q1":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+16_14:03
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q3":{"query":"paard","type":"/objectname","type_strict":"should"},"q4":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q5":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q6":{"query":"ets","type":"/objectname","type_strict":"should"},"q7":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q8":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q9":{"query":"foto","type":"/objectname","type_strict":"should"}}
+)
+16_14:09
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q3":{"query":"mezzotint","type":"/objectname","type_strict":"should"},"q4":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q5":{"query":"collage","type":"/objectname","type_strict":"should"},"q6":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q8":{"query":"schildering","type":"/objectname","type_strict":"should"},"q9":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"}}
+)
+16_14:14
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"boek","type":"/objectname","type_strict":"should"},"q5":{"query":"penschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q7":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q8":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q9":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"}}
+)
+16_14:20
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+16_18:46
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+16_18:53
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+16_18:59
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"gravure","type":"/objectname","type_strict":"should"},"q3":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q5":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q6":{"query":"prent","type":"/objectname","type_strict":"should"},"q7":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q8":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q9":{"query":"gouache","type":"/objectname","type_strict":"should"}}
+)
+16_19:05
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q5":{"query":"pastel","type":"/objectname","type_strict":"should"},"q6":{"query":"afgietsel","type":"/objectname","type_strict":"should"},"q7":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q8":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q9":{"query":"koker","type":"/objectname","type_strict":"should"}}
+)
+16_19:11
+Array
+(
+    [queries] => {"q0":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q1":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+16_19:17
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q3":{"query":"paard","type":"/objectname","type_strict":"should"},"q4":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q5":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q6":{"query":"ets","type":"/objectname","type_strict":"should"},"q7":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q8":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q9":{"query":"foto","type":"/objectname","type_strict":"should"}}
+)
+16_19:23
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q3":{"query":"mezzotint","type":"/objectname","type_strict":"should"},"q4":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q5":{"query":"collage","type":"/objectname","type_strict":"should"},"q6":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q8":{"query":"schildering","type":"/objectname","type_strict":"should"},"q9":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"}}
+)
+16_19:29
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"boek","type":"/objectname","type_strict":"should"},"q5":{"query":"penschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q7":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q8":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q9":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"}}
+)
+16_19:35
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+16_27:40
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+16_27:49
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+16_27:55
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"gravure","type":"/objectname","type_strict":"should"},"q3":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q5":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q6":{"query":"prent","type":"/objectname","type_strict":"should"},"q7":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q8":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q9":{"query":"gouache","type":"/objectname","type_strict":"should"}}
+)
+16_28:01
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q5":{"query":"pastel","type":"/objectname","type_strict":"should"},"q6":{"query":"afgietsel","type":"/objectname","type_strict":"should"},"q7":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q8":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q9":{"query":"koker","type":"/objectname","type_strict":"should"}}
+)
+16_28:07
+Array
+(
+    [queries] => {"q0":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q1":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+16_28:13
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q3":{"query":"paard","type":"/objectname","type_strict":"should"},"q4":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q5":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q6":{"query":"ets","type":"/objectname","type_strict":"should"},"q7":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q8":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q9":{"query":"foto","type":"/objectname","type_strict":"should"}}
+)
+16_28:19
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q3":{"query":"mezzotint","type":"/objectname","type_strict":"should"},"q4":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q5":{"query":"collage","type":"/objectname","type_strict":"should"},"q6":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q8":{"query":"schildering","type":"/objectname","type_strict":"should"},"q9":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"}}
+)
+16_28:25
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"boek","type":"/objectname","type_strict":"should"},"q5":{"query":"penschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q7":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q8":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q9":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"}}
+)
+16_28:31
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+15_25:11
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+15_25:19
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+15_25:25
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"gravure","type":"/objectname","type_strict":"should"},"q3":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q5":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q6":{"query":"prent","type":"/objectname","type_strict":"should"},"q7":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q8":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q9":{"query":"gouache","type":"/objectname","type_strict":"should"}}
+)
+15_25:32
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q5":{"query":"pastel","type":"/objectname","type_strict":"should"},"q6":{"query":"afgietsel","type":"/objectname","type_strict":"should"},"q7":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q8":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q9":{"query":"koker","type":"/objectname","type_strict":"should"}}
+)
+15_25:38
+Array
+(
+    [queries] => {"q0":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q1":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+15_25:45
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q3":{"query":"paard","type":"/objectname","type_strict":"should"},"q4":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q5":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q6":{"query":"ets","type":"/objectname","type_strict":"should"},"q7":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q8":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q9":{"query":"foto","type":"/objectname","type_strict":"should"}}
+)
+15_25:51
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q3":{"query":"mezzotint","type":"/objectname","type_strict":"should"},"q4":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q5":{"query":"collage","type":"/objectname","type_strict":"should"},"q6":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q8":{"query":"schildering","type":"/objectname","type_strict":"should"},"q9":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"}}
+)
+15_25:57
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"boek","type":"/objectname","type_strict":"should"},"q5":{"query":"penschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q7":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q8":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q9":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"}}
+)
+15_26:04
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+17_17:53
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+17_18:02
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+17_18:09
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"gravure","type":"/objectname","type_strict":"should"},"q3":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q5":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q6":{"query":"prent","type":"/objectname","type_strict":"should"},"q7":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q8":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q9":{"query":"gouache","type":"/objectname","type_strict":"should"}}
+)
+17_18:16
+Array
+(
+    [queries] => {"q0":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q1":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q5":{"query":"pastel","type":"/objectname","type_strict":"should"},"q6":{"query":"afgietsel","type":"/objectname","type_strict":"should"},"q7":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q8":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q9":{"query":"koker","type":"/objectname","type_strict":"should"}}
+)
+17_18:23
+Array
+(
+    [queries] => {"q0":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q1":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q2":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+17_18:29
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q3":{"query":"paard","type":"/objectname","type_strict":"should"},"q4":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q5":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q6":{"query":"ets","type":"/objectname","type_strict":"should"},"q7":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q8":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q9":{"query":"foto","type":"/objectname","type_strict":"should"}}
+)
+17_18:36
+Array
+(
+    [queries] => {"q0":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q2":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q3":{"query":"mezzotint","type":"/objectname","type_strict":"should"},"q4":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q5":{"query":"collage","type":"/objectname","type_strict":"should"},"q6":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q8":{"query":"schildering","type":"/objectname","type_strict":"should"},"q9":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"}}
+)
+17_18:43
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"boek","type":"/objectname","type_strict":"should"},"q5":{"query":"penschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q7":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q8":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q9":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"}}
+)
+17_18:49
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)
+18_55:19
+Array
+(
+)
+18_55:35
+Array
+(
+)
+18_56:09
+Array
+(
+)
+18_57:29
+Array
+(
+)
+18_58:06
+Array
+(
+)
+18_58:17
+Array
+(
+)
+18_58:32
+Array
+(
+    [queries] => {"q0":{"query":"gouache","limit":3},"q1":{"query":"pastel","limit":3},"q2":{"query":"paard","limit":3},"q3":{"query":"aardewerk","limit":3},"q4":{"query":"foto","limit":3},"q5":{"query":"olieverfschildering","limit":3},"q6":{"query":"tekeningen","limit":3},"q7":{"query":"temperaschildering","limit":3},"q8":{"query":"houtskooltekening","limit":3},"q9":{"query":"collage","limit":3}}
+)
+18_58:37
+Array
+(
+    [queries] => {"q0":{"query":"buste","type":"/objectname","type_strict":"should"},"q1":{"query":"envelop","type":"/objectname","type_strict":"should"},"q2":{"query":"zinkets","type":"/objectname","type_strict":"should"},"q3":{"query":"olieverfschildering","type":"/objectname","type_strict":"should"},"q4":{"query":"film (uitvoerende kunst)","type":"/objectname","type_strict":"should"},"q5":{"query":"manuscript","type":"/objectname","type_strict":"should"},"q6":{"query":"reeks","type":"/objectname","type_strict":"should"},"q7":{"query":"lithografie (prent)","type":"/objectname","type_strict":"should"},"q8":{"query":"tapijt","type":"/objectname","type_strict":"should"},"q9":{"query":"aquarel","type":"/objectname","type_strict":"should"}}
+)
+18_58:37
+Array
+(
+    [queries] => {"q0":{"query":"gravure","type":"/objectname","type_strict":"should"},"q1":{"query":"brons (beeldhouwwerk)","type":"/objectname","type_strict":"should"},"q2":{"query":"krijttekening","type":"/objectname","type_strict":"should"},"q3":{"query":"zeefdruk (prent)","type":"/objectname","type_strict":"should"},"q4":{"query":"prent","type":"/objectname","type_strict":"should"},"q5":{"query":"houtskooltekening","type":"/objectname","type_strict":"should"},"q6":{"query":"reliëf (object)","type":"/objectname","type_strict":"should"},"q7":{"query":"gouache","type":"/objectname","type_strict":"should"},"q8":{"query":"pastel","type":"/objectname","type_strict":"should"},"q9":{"query":"afgietsel","type":"/objectname","type_strict":"should"}}
+)
+18_58:37
+Array
+(
+    [queries] => {"q0":{"query":"werk op papier","type":"/objectname","type_strict":"should"},"q1":{"query":"kleurenhoutsnede","type":"/objectname","type_strict":"should"},"q2":{"query":"koker","type":"/objectname","type_strict":"should"},"q3":{"query":"reliëfets","type":"/objectname","type_strict":"should"},"q4":{"query":"tekening","type":"/objectname","type_strict":"should"},"q5":{"query":"drogenaald","type":"/objectname","type_strict":"should"},"q6":{"query":"gedicht","type":"/objectname","type_strict":"should"},"q7":{"query":"pastel (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q8":{"query":"gouache (schildering)","type":"/objectname","type_strict":"should"},"q9":{"query":"ontwerptekening","type":"/objectname","type_strict":"should"}}
+)
+18_58:37
+Array
+(
+    [queries] => {"q0":{"query":"zinkografie","type":"/objectname","type_strict":"should"},"q1":{"query":"paard","type":"/objectname","type_strict":"should"},"q2":{"query":"beeldhouwwerk","type":"/objectname","type_strict":"should"},"q3":{"query":"titelpagina","type":"/objectname","type_strict":"should"},"q4":{"query":"ets","type":"/objectname","type_strict":"should"},"q5":{"query":"houtsnede","type":"/objectname","type_strict":"should"},"q6":{"query":"aardewerk","type":"/objectname","type_strict":"should"},"q7":{"query":"foto","type":"/objectname","type_strict":"should"},"q8":{"query":"pentekening","type":"/objectname","type_strict":"should"},"q9":{"query":"mezzotint","type":"/objectname","type_strict":"should"}}
+)
+18_58:37
+Array
+(
+    [queries] => {"q0":{"query":"studie (beeldmateriaal)","type":"/objectname","type_strict":"should"},"q1":{"query":"collage","type":"/objectname","type_strict":"should"},"q2":{"query":"linoleumsnede","type":"/objectname","type_strict":"should"},"q3":{"query":"videokunst (kunstwerk)","type":"/objectname","type_strict":"should"},"q4":{"query":"schildering","type":"/objectname","type_strict":"should"},"q5":{"query":"acrylverfschildering","type":"/objectname","type_strict":"should"},"q6":{"query":"clair-obscur-houtsnede","type":"/objectname","type_strict":"should"},"q7":{"query":"temperaschildering","type":"/objectname","type_strict":"should"},"q8":{"query":"boek","type":"/objectname","type_strict":"should"},"q9":{"query":"penschildering","type":"/objectname","type_strict":"should"}}
+)
+18_58:37
+Array
+(
+    [queries] => {"q0":{"query":"tijdschrift","type":"/objectname","type_strict":"should"},"q1":{"query":"tekeningen","type":"/objectname","type_strict":"should"},"q2":{"query":"offsetlithografie (prent)","type":"/objectname","type_strict":"should"},"q3":{"query":"contre-épreuve","type":"/objectname","type_strict":"should"},"q4":{"query":"affiche","type":"/objectname","type_strict":"should"}}
+)

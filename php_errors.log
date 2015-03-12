@@ -1,0 +1,164 @@
+[24-Apr-2014 10:05:25] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[24-Apr-2014 10:05:25] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[24-Apr-2014 10:05:25] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[24-Apr-2014 10:16:16] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[24-Apr-2014 14:18:57] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[25-Apr-2014 09:31:15] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[25-Apr-2014 09:31:15] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[25-Apr-2014 09:31:15] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[25-Apr-2014 09:31:15] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[25-Apr-2014 10:29:57] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[25-Apr-2014 10:29:57] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[25-Apr-2014 10:29:57] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[25-Apr-2014 10:29:57] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[26-Apr-2014 15:14:57] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[26-Apr-2014 19:25:26] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[26-Apr-2014 19:25:26] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[26-Apr-2014 19:25:26] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[27-Apr-2014 18:50:14] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[30-Apr-2014 09:14:06] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 09:14:06] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 09:14:06] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 09:20:20] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 09:20:20] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 09:20:20] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 10:41:31] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 10:41:31] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 10:41:31] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 10:42:36] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 10:42:36] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 10:42:36] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 10:42:52] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 10:42:52] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 10:42:52] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 10:43:16] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 10:43:16] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 10:43:16] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 11:17:38] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 11:17:38] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 11:17:38] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 11:17:48] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 11:17:48] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 11:17:48] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 12:02:55] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 12:02:55] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 12:02:55] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 12:03:05] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 12:03:05] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 12:03:05] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 12:04:01] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 12:04:01] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 12:04:01] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[30-Apr-2014 12:04:11] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 16
+[30-Apr-2014 12:04:11] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 20
+[30-Apr-2014 12:04:11] PHP Notice:  Undefined index: service in /home/web/reconciliation/reconciliation-generic/reconciliate.php on line 23
+[02-May-2014 09:33:25] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[02-May-2014 12:43:04] PHP Warning:  file_put_contents(): Only 86 of 211 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[02-May-2014 12:43:08] PHP Warning:  [06-May-2014 10:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[18-May-2014 08:19:26] PHP Warning:  file_put_contents(): Only 3299 of 8032 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:19:28] PHP Warning:  file_put_contents(): Only 0 of 6822 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:19:47] PHP Warning:  file_put_contents(): Only 355 of 779 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:19:47] PHP Warning:  file_put_contents(): Only 0 of 8041 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:19:52] PHP Warning:  file_put_contents(): Only 0 of 754 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:23:36] PHP Warning:  file_put_contents(): Only 0 of 8803 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:23:41] PHP Warning:  file_put_contents(): Only 0 of 8300 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:23:46] PHP Warning:  file_put_contents(): Only 0 of 10953 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:23:46] PHP Warning:  file_put_contents(): Only 0 of 772 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:23:51] PHP Warning:  file_put_contents(): Only 0 of 764 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:23:56] PHP Warning:  file_put_contents(): Only 0 of 762 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:27:43] PHP Warning:  file_put_contents(): Only 0 of 7860 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:27:46] PHP Warning:  file_put_contents(): Only 0 of 9644 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:27:48] PHP Warning:  file_put_contents(): Only 0 of 7361 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:27:53] PHP Warning:  file_put_contents(): Only 0 of 794 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:27:56] PHP Warning:  file_put_contents(): Only 0 of 763 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:27:58] PHP Warning:  file_put_contents(): Only 0 of 769 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/reconciliate_rkd.php on line 14
+[18-May-2014 08:31:47] PHP Warning:  file_put_contents(): Only 0 of 8157 bytes written, possibly out of free disk space in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 181
+[18-May-2014 08:31:50] PHP Warning:  file_put_contents(): Only 0 of 8504 bytes written, possibly out of free disk space in /home/w[20-May-2014 08:17:54] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[20-May-2014 16:25:43] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 11:45:23] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 12:52:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:14:21] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:22:58] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:21] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:48] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:48] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:48] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:31:48] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:43] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:40:47] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 137
+[22-May-2014 13:41:17] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 13:41:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 13:41:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 13:41:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 13:41:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 13:41:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 13:41:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 13:41:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:34] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:38] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:38] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:38] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:38] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:16:38] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:18] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:19] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:19] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:19] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:19] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:19] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:20] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[22-May-2014 14:17:20] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[25-May-2014 1[30-May-2014 14:33:36] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:33:58] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:34:00] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:34:00] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:34:00] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:34:00] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:34:01] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:34:01] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:34:01] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:17] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:19] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:21] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:21] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:21] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:21] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:21] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:39:22] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:35] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 14:57:24] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[30-May-2014 15:11:12] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[07-Jul-2014 10:09:38] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[07-Jul-2014 10:09:38] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[14-Jul-2014 10:46:55] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[14-Jul-2014 10:47:33] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[14-Jul-2014 10:48:44] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[14-Jul-2014 10:50:54] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
+[14-Jul-2014 10:51:30] PHP Warning:  Invalid argument supplied for foreach() in /home/web/reconciliation/reconciliation-generic/classes/ReconciliationService.php on line 139
